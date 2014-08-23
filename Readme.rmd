@@ -1,0 +1,15 @@
+---
+title: "Readme"
+author: "Sid Amar"
+date: "Saturday, August 23, 2014"
+output: html_document
+---
+
+This is a readme document for the developing data products week 3 project
+I have created a simple project that deals with linear regression.
+Using the mtcars data set, the user can see the effects of fitting a linear regressor between mileage(miles per gallon) on the y axis and weight of the car (on a scale of hundreds of pounds) on the x axis
+The user inputs his guess at the best fit line's slope and intercept via 2 slider inputs
+On hitting the submit button, a blue line is drawn on the plot to show the regression line drawn as per the user's specifications
+The red line shows the best fit regression line
+The sum of residuals (absolute values only) is also shown on the plot, based on the user inputted regression lines
+
